@@ -12,11 +12,11 @@ $menus =[
         'plato: ' => 'segundo',
         'ingredientes: ' =>  ['masa', 'mozzarella', 'salsa de tomate', 'albahaca']
     ],
-   +[
+   [
         'titulo: ' => 'alitas de pollo',
         'comensales: ' => 2,
         'plato: ' => 'entrante',
-        'ingredientes: ' => $array = ['pollo', 'salsa']
+        'ingredientes: ' => ['pollo', 'salsa']
     ]
 ];
 ?>
